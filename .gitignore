@@ -1,0 +1,9 @@
+#dependencias 
+node_modules/
+
+#resultado do build
+dist/
+
+#variáveis de ambiente
+.env
+.env.local
